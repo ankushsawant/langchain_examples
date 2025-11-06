@@ -1,0 +1,10 @@
+.env
+db/
+# PyCharm
+.idea/
+# Specific files within .idea that are often user-specific
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/shelf/
