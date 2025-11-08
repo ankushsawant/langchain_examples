@@ -4,6 +4,7 @@ from google import genai
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.messages import AIMessage, HumanMessage, SystemMessage
 
+# Load environment variables from .env
 load_dotenv()
 
 def genai_test():
